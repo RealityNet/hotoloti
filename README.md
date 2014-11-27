@@ -1,6 +1,7 @@
 
-documentation, scripts, tools related to Zena Forensics (http://blog.digital-forensics.it)
-
+documentation, scripts, tools related to **Zena Forensics** (http://blog.digital-forensics.it)
+ 
+ 
 ##### regripper
 the folder contains some RegRipper plugins I wrote. You need RegRipper to use them.
 
